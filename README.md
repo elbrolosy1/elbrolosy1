@@ -10,7 +10,9 @@
 
 ###
 
-<p align="left">I am studying Artificial Intelligence at Delta University,</p>
+<p align="left">I am a dedicated Backend Developer specializing in .NET, currently on a journey to deepen my expertise in the field. My educational background includes a solid foundation in object-oriented programming (OOP), databases, data structures, HTML, CSS, and algorithms, all of which I have successfully completed.
+
+As a student at Delta University, I am continually expanding my knowledge and skills to stay ahead in the ever-evolving tech landscape. My passion for backend development drives me to constantly seek out new challenges and learning opportunities, ensuring that I am well-equipped to contribute effectively to any team.</p>
 
 ###
 
