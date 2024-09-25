@@ -10,9 +10,13 @@
 
 ###
 
-<p align="left">I am a dedicated Backend Developer specializing in .NET, currently on a journey to deepen my expertise in the field. My educational background includes a solid foundation in object-oriented programming (OOP), databases, data structures, HTML, CSS, and algorithms, all of which I have successfully completed.
+<p align="left">
+As a .NET Backend Developer, I specialize in creating scalable, efficient systems designed to solve complex, real-world challenges. My technical expertise spans object-oriented programming (OOP), databases, data structures, algorithms, and front-end technologies like HTML and CSS. I have hands-on experience working with APIs, MVC architecture, LINQ, and Entity Framework, which I use to craft secure and high-performance backend solutions.
 
-As a student at Delta University, I am continually expanding my knowledge and skills to stay ahead in the ever-evolving tech landscape. My passion for backend development drives me to constantly seek out new challenges and learning opportunities, ensuring that I am well-equipped to contribute effectively to any team.</p>
+At Delta University, I am dedicated to continually expanding my technical skills and applying my knowledge to address real-world challenges. I thrive in collaborative environments where problem-solving is essential, and I enjoy taking on projects that push the boundaries of backend development. One project that particularly challenged me involved redesigning a legacy system, which deepened my understanding of performance optimization and user needs.
+
+Looking ahead, I aim to contribute to innovative projects that drive business success and further refine my skills in building robust architectures that enhance user experiences.
+
 
 ###
 
