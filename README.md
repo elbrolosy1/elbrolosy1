@@ -1,45 +1,47 @@
-<h1 align="center">Welcome to Ziad elbrolosy`s profile</h1>
+# Ziad Elsayed Elbrolosy
 
-###
+**Backend Developer** specializing in Microsoft technologies (.NET Core, C#, ASP.NET Core MVC)
 
-<p align="left">My name is Ziad and I'm a Backend developer, from Egypt</p>
+---
 
-###
+## Summary
+Backend Developer with 1+ year of experience, specializing in Microsoft technologies such as .NET Core and ASP.NET Core MVC. Proven ability to design scalable backend systems for industries such as finance and e-commerce. Passionate about improving performance and efficiency in high-load environments, with a focus on secure, high-performance APIs and database optimization.
 
-<h2 align="left">About me</h2>
+---
 
-###
+## Skills
 
-<p align="left">
-As a .NET Backend Developer, I specialize in creating scalable, efficient systems designed to solve complex, real-world challenges. My technical expertise spans object-oriented programming (OOP), databases, data structures, algorithms, and front-end technologies like HTML and CSS. I have hands-on experience working with APIs, MVC architecture, LINQ, and Entity Framework, which I use to craft secure and high-performance backend solutions.
+- **Languages**: C#, .NET Core
+- **Frameworks**: ASP.NET Core MVC, Entity Framework
+- **Databases**: SQL Server, LINQ, Database Design
+- **Web Technologies**: HTML, CSS
+- **API Development**: RESTful APIs
+- **Version Control**: Git
+- **Problem Solving**: Object-Oriented Programming, Backend Architecture
 
-At Delta University, I am dedicated to continually expanding my technical skills and applying my knowledge to address real-world challenges. I thrive in collaborative environments where problem-solving is essential, and I enjoy taking on projects that push the boundaries of backend development. One project that particularly challenged me involved redesigning a legacy system, which deepened my understanding of performance optimization and user needs.
+---
 
-Looking ahead, I aim to contribute to innovative projects that drive business success and further refine my skills in building robust architectures that enhance user experiences.
+## Education
 
+- **Bachelor's Degree in Artificial Intelligence**, Delta University (2021–2025) | GPA: 3.85
+- Relevant Coursework: Machine Learning, Data Structures, Software Architecture
 
-###
+---
 
-<h2 align="left">I code with</h2>
+## Projects
 
-###
+### CRUD Console Application
+A simple CRUD (Create, Read, Update, Delete) console application written in C#. It allows users to manage a list of user information, including Name, Email, and Phone number.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-</div>
+- [GitHub Repository](https://github.com/elbrolosy1)
 
-###
+---
 
-<p align="left">Hello World!!</p>
+## Contact
 
-###
+- **Location**: Gharbia, Egypt
+- **Email**: zeyadelbrolosy55566@gmail.com
+- **Phone**: +20 1097706858
+- [LinkedIn Profile](http://www.linkedin.com/in/ziad-el-brolosy-89358a289)
+- [GitHub Profile](https://github.com/elbrolosy1)
+
