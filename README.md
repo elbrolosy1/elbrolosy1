@@ -28,20 +28,9 @@ Backend Developer with 1+ year of experience, specializing in Microsoft technolo
 
 ---
 
-## Projects
-
-### CRUD Console Application
-A simple CRUD (Create, Read, Update, Delete) console application written in C#. It allows users to manage a list of user information, including Name, Email, and Phone number.
-
-- [GitHub Repository](https://github.com/elbrolosy1)
-
----
-
 ## Contact
 
 - **Location**: Gharbia, Egypt
 - **Email**: zeyadelbrolosy55566@gmail.com
 - **Phone**: +20 1097706858
 - [LinkedIn Profile](http://www.linkedin.com/in/ziad-el-brolosy-89358a289)
-- [GitHub Profile](https://github.com/elbrolosy1)
-
