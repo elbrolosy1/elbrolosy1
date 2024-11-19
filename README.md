@@ -27,10 +27,3 @@ Backend Developer with 1+ year of experience, specializing in Microsoft technolo
 - Relevant Coursework: Machine Learning, Data Structures, Software Architecture
 
 ---
-
-## 📞 Contact
-
-- **📍 Location**: Gharbia, Egypt
-- **✉️ Email**: [zeyadelbrolosy55566@gmail.com](mailto:zeyadelbrolosy55566@gmail.com)
-- **📞 Phone**: +20 1097706858
-- [💼 LinkedIn Profile](http://www.linkedin.com/in/ziad-el-brolosy-89358a289)
