@@ -4,11 +4,6 @@
 
 ---
 
-## 📄 Summary
-Backend Developer with 1+ year of experience, specializing in Microsoft technologies such as .NET Core and ASP.NET Core MVC. Proven ability to design scalable backend systems for industries such as finance and e-commerce. Passionate about improving performance and efficiency in high-load environments, with a focus on secure, high-performance APIs and database optimization.
-
----
-
 ## 🛠️ Skills
 
 - **💻 Languages**: C#, .NET Core
@@ -18,12 +13,5 @@ Backend Developer with 1+ year of experience, specializing in Microsoft technolo
 - **🔗 API Development**: RESTful APIs
 - **📂 Version Control**: Git
 - **🧠 Problem Solving**: Object-Oriented Programming, Backend Architecture
-
----
-
-## 🎓 Education
-
-- **Bachelor's Degree in Artificial Intelligence**, Delta University (2021–2025) | GPA: 3.85
-- Relevant Coursework: Machine Learning, Data Structures, Software Architecture
 
 ---
