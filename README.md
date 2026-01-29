@@ -43,7 +43,6 @@
 
 ---
 
-### 🟩 Contribution Graph Animation
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elbrolosy1/elbrolosy1/output/pacman-contribution-graph-dark.svg">
